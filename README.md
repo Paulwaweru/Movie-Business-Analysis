@@ -22,9 +22,9 @@ IMDB contains a searchable database of movies, TV, entertainment programs, and t
 ***
 # Objectives 
 * To identify the largest studios by movie production? 
-* To identify the top 10 highest grossing studios during the time period?
+* To identify the top 10 highest grossing studios during the time period
 * To identify the domestic and foreign grossing trend over the years 
-* To identify the lowest and highest rated genres for the time period?
+* To identify the lowest and highest rated genres for the time period
 ***
 # Data Analysis
 The data analysis includes data preparation process and exploratory data analysis.
