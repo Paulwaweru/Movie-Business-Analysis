@@ -21,7 +21,7 @@ Box Office Mojo, powered by IMDbPro provides the box office receipts by period a
 IMDB contains a searchable database of movies, TV, entertainment programs, and their cast and crew members. They provide box office data, for example, the average rating, run time minutes, language, writers, and other information.  
 ***
 # Objectives 
-* To identify the largest studios by movie production? 
+* To identify the largest studios by movie production 
 * To identify the top 10 highest grossing studios during the time period
 * To identify the domestic and foreign grossing trend over the years 
 * To identify the lowest and highest rated genres for the time period
